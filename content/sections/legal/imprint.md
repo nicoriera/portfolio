@@ -4,12 +4,12 @@ sectionId: imprint
 
 #### Information pursuant to § 5 TMG
 
-YOURNAME<br />
+Nicolas RIERA<br />
 YOURSTREET<br />
-YOURCITY<br />
-YOURCOUNTRY
+BORDEAUX<br />
+FRANCE
 
-E-Mail Address: <u>YOURMAIL@DOMAIN.COM</u>
+E-Mail Address: <u>nrierapro@gmail.com</u>
 
 ---
 
