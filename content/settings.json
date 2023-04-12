@@ -4,10 +4,10 @@
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "Portfolio : Nicolas RIERA",
     "titleTemplate": "%s · Portfolio Minimal",
-    "description": "Portfoli de Nicolas RIERA développeur web",
+    "description": "Portfolio de Nicolas RIERA développeur web",
     "author": "Nicolas RIERA",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "avatar": "../content/images/nr.png",
+    "bio": "Développeur web",
     "social": {
       "github": "https://github.com/nicoriera",
       "linkedin": "https://www.linkedin.com/in/nicolasriera/",
@@ -28,8 +28,8 @@
         "url": "/nicolas_cv.pdf"
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "", "url": "" },
+        { "label": "", "url": "" }
       ]
     },
     "featureToggles": {
