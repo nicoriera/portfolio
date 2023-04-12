@@ -8,7 +8,7 @@
       "tags": ["React", "Front-end", "Responsive", "SEO"],
       "image": {
         "src": "../../images/site-cabinet-hypnose.png",
-        "alt": "Quick Setup",
+        "alt": "Cabinet hypnose Hendaye",
         "linkTo": "http://cabinet-hypnose-hendaye.fr/"
       },
       "links": [
@@ -29,8 +29,8 @@
       "description": "Plateforme pour la mise en raltion entre les parents et la nounou. Le projet est réalisé en Ruby on Rails. Projet final de la formation Le Wagon à Bordeaux.",
       "tags": ["Ruby On Rails", "Stimulus", "Front-end", "Back-end", "SQL", "Cloudinary", "Heroku"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
-        "alt": "Extendable Layout",
+        "src": "../../images/mockup-chit-chat.png",
+        "alt": "chot-chat",
         "linkTo": "https://github.com/nicoriera/Chit-Chat"
       },
       "links": [

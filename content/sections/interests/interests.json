@@ -3,56 +3,63 @@
     {
       "label": "HTML",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/html.png",
         "alt": ""
       }
     },
     {
       "label": "CSS",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/css.png",
         "alt": ""
       }
     },
     {
       "label": "Javascript",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/js.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Ruby",
+      "image": {
+        "src": "../../images/ruby.png",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "../../images/medium.png",
+        "src": "../../images/react.png",
         "alt": ""
       }
     },
     {
-      "label": "Ruby on Rails",
+      "label": "Ruby On Rails",
       "image": {
-        "src": "../../images/gem-stone.png",
+        "src": "../../images/ruby-on-rails.png",
         "alt": ""
       }
     },
     {
       "label": "Figma",
       "image": {
-        "src": "../../images/mobile-phone.png",
+        "src": "../../images/figma.png",
         "alt": ""
       }
     },
     {
       "label": "Heroku",
       "image": {
-        "src": "../../images/gatsby.png",
+        "src": "../../images/heroku.png",
         "alt": ""
       }
     },
     {
       "label": "Github",
       "image": {
-        "src": "../../images/high-voltage.png",
+        "src": "../../images/github.png",
         "alt": ""
       }
     }
