@@ -9,10 +9,11 @@
     "serve": "gatsby serve"
   },
   "engines": {
-    "node": ">=18.0.0"
+    "node": "19.8.1"
   },
   "dependencies": {
     "gatsby": "^5.0.1",
+    "gatsby-plugin-netlify": "^5.1.0",
     "gatsby-theme-portfolio-minimal": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
