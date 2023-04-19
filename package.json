@@ -1,13 +1,34 @@
 {
   "name": "portfolio-nicolas-riera",
   "version": "1.0.0",
-  "description": "prototype du portfolio de Nicolas Riera",
-  "main": "index.js",
+  "description": "Portofolio de Nicolas RIERA",
   "scripts": {
-    "build": "gatsby build",
+    "clean": "gatsby clean",
     "develop": "gatsby develop",
-    "start": "gatsby serve",
-    "clean": "gatsby clean"
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=14.17.0"
+  },
+  "dependencies": {
+    "gatsby-plugin-netlify": "^5.1.0",
+    "gatsby-theme-portfolio-minimal": "latest",
+    "gatsby-transformer-inline-svg": "^1.2.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "gatsby": "^5.9.0"
+  },
+  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "license": "0BSD",
+  "starter-name": "gatsby-starter-portfolio-minimal-theme",
+  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
   },
   "keywords": [
     "react",
@@ -20,13 +41,5 @@
     "animations",
     "dark-mode",
     "gdpr-compliant"
-  ],
-  "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "gatsby": "^5.9.0"
-  },
-  "engines": {
-    "node": ">=14.17.0"
-  }
+  ]
 }
