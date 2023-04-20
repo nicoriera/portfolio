@@ -62,6 +62,13 @@
         "src": "../../images/github.png",
         "alt": ""
       }
+    },
+    {
+      "label": "Bootstrap",
+      "image": {
+        "src": "../../images/bootstrap.png",
+        "alt": ""
+      }
     }
   ],
   "button": {
