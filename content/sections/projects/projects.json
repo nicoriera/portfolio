@@ -30,13 +30,17 @@
       "tags": ["Ruby On Rails", "Stimulus", "Front-end", "Back-end", "SQL", "Cloudinary", "Heroku"],
       "image": {
         "src": "../../images/mockup-chit-chat.png",
-        "alt": "chot-chat",
+        "alt": "chit-chat",
         "linkTo": "https://github.com/nicoriera/Chit-Chat"
       },
       "links": [
         {
           "type": "github",
           "url": "https://github.com/nicoriera/Chit-Chat"
+        },
+        {
+          "type": "external",
+          "url": "https://www.chit-chat.website/"
         }
       ]
     }
