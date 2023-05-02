@@ -2,7 +2,7 @@
 
 Création de mon portfolio de développeur web
 
-https://nicolasriera.gatsbyjs.io/
+https://www.nicolasriera.online/
 
 Technologies utilisées
 
