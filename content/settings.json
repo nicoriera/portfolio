@@ -11,9 +11,9 @@
     "social": {
       "github": "https://github.com/nicoriera",
       "linkedin": "https://www.linkedin.com/in/nicolasriera/",
-      "mail": "mailto:nrierapro@gmail.com"
-    },
-    "image": "https://res.cloudinary.com/dzceds5rc/image/upload/v1682777864/nicolas_cv_j1akls.jpg"
+      "mail": "mailto:nrierapro@gmail.com",
+      "image": "https://res.cloudinary.com/dzceds5rc/image/upload/v1682777864/nicolas_cv_j1akls.jpg"
+    }
   },
   "siteConfiguration": {
     "logo": { "text": "NR" },
@@ -26,7 +26,7 @@
       "ctaButton": {
         "openNewTab": true,
         "label": "CV",
-        "url": "https://res.cloudinary.com/dzceds5rc/image/upload/v1682777864/nicolas_cv_j1akls.jpg"
+        "url": "https://res.cloudinary.com/dzceds5rc/image/upload/v1683015762/nicolas_cv_mai_ixpg5i.jpg"
       },
       "footer": [
         { "label": "", "url": "" },
