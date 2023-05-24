@@ -1,11 +1,56 @@
 {
   "projects": [
     {
+      "visible": false,
+      "category": "🧘‍♀️DÉVELOPPEMENT WEB",
+      "title": "HouseCo",
+      "description": "Création d'un site vitrine pour un cabinet d'hypnose. Le site est réalisé en React. Le site est responsive et est optimisé pour le référencement naturel.",
+      "tags": [
+        "React",
+        "Front-end",
+        "Responsive",
+        "Back-end",
+        "NestJS",
+        "Prisma",
+        "PostgreSQL",
+        "Docker",
+        "Heroku",
+        "SQL",
+        "Javascript",
+        "Jest",
+        "React Testing Library",
+        "SEO"
+      ],
+      "image": {
+        "src": "",
+        "alt": "HouseCo",
+        "linkTo": ""
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/nicoriera/houseco_frontend"
+        },
+        {
+          "type": "external",
+          "url": ""
+        }
+      ]
+    },
+    {
       "visible": true,
       "category": "🧘‍♀️DÉVELOPPEMENT WEB",
       "title": "Cabinet hypnose Hendaye",
       "description": "Création d'un site vitrine pour un cabinet d'hypnose. Le site est réalisé en React. Le site est responsive et est optimisé pour le référencement naturel.",
-      "tags": ["React", "Front-end", "Responsive", "SEO"],
+      "tags": [
+        "React",
+        "Front-end",
+        "Responsive",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "SEO"
+      ],
       "image": {
         "src": "../../images/site-cabinet-hypnose.png",
         "alt": "Cabinet hypnose Hendaye",
@@ -27,7 +72,21 @@
       "category": "📱 DÉVELOPPEMENT WEB",
       "title": "Chit-chat",
       "description": "Plateforme pour la mise en raltion entre les parents et la nounou. Le projet est réalisé en Ruby on Rails. Projet final de la formation Le Wagon à Bordeaux.",
-      "tags": ["Ruby On Rails", "Stimulus", "Front-end", "Back-end", "SQL", "Cloudinary", "Heroku"],
+      "tags": [
+        "Ruby On Rails",
+        "Stimulus",
+        "Front-end",
+        "Back-end",
+        "SQL",
+        "Cloudinary",
+        "Heroku",
+        "Ruby,",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bootstrap",
+        "PostgreSQL"
+      ],
       "image": {
         "src": "../../images/mockup-chit-chat.png",
         "alt": "chit-chat",

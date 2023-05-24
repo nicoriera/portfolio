@@ -1,16 +1,13 @@
 {
   "name": "portfolio-nicolas-riera",
   "version": "1.0.0",
-  "description": "Ma page est dédiée à présenter mes compétences en développement web, mes projets récents et mes réalisations en tant que développeur web. Avec des compétences en développement front-end et back-end, j'ai créé des sites web réactifs et faciles à naviguer en utilisant des technologies modernes telles que Gatsby, React et Node.js. Mon portfolio comprend des projets passionnants qui démontrent mon expertise en matière de développement web. Explorez mon portfolio pour en savoir plus sur mes compétences et mon travail, et n'hésitez pas à me contacter si vous souhaitez en discuter.",
+  "description": "Ma page est dédiée à présenter mes compétences en développement web, mes projets récents et mes réalisations en tant que développeur web.",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
     "start": "gatsby develop"
-  },
-  "engines": {
-    "node": ">=14.17.0"
   },
   "dependencies": {
     "gatsby": "^5.9.0",
@@ -20,30 +17,13 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "author": "Konstantin Münster",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-minimal-theme",
-  "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git"
-  },
-  "bugs": {
-    "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme/issues"
-  },
+  "repository": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme.git",
   "keywords": [
     "react",
     "gatsby",
-    "gatsby-theme",
-    "PWA",
     "portfolio",
-    "showcase",
-    "minimal",
-    "animations",
-    "dark-mode",
-    "gdpr-compliant"
-  ],
-  "devDependencies": {
-    "npm-force-resolutions": "^0.0.10"
-  }
+    "minimal"
+  ]
 }
