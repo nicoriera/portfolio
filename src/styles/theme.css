@@ -1,4 +1,4 @@
-body[data-theme='lightTheme'] {
+body[data-theme="lightTheme"] {
   --primary-color: #000000;
   --secondary-color: #fff4d9;
   --tertiary-color: #f2f2f2;
@@ -9,7 +9,7 @@ body[data-theme='lightTheme'] {
   --scroll-bar-color: rgba(0, 0, 0, 0.5);
   --box-shadow-color: rgba(0, 0, 0, 0.16);
   --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
-  --base-font: 'Roboto', Arial, sans-serif;
+  --base-font: "Roboto", Arial, sans-serif;
   --code-block-bg: #151f28;
   --code-block-var: #ff39a7;
   --code-block-num: #fed703;
@@ -19,7 +19,7 @@ body[data-theme='lightTheme'] {
   --code-block-tkimp: #fd971f;
 }
 
-body[data-theme='darkTheme'] {
+body[data-theme="darkTheme"] {
   --primary-color: #fafafa;
   --secondary-color: #2a2926;
   --tertiary-color: #252525;
@@ -30,7 +30,7 @@ body[data-theme='darkTheme'] {
   --scroll-bar-color: rgba(255, 255, 255, 0.5);
   --box-shadow-color: rgba(0, 0, 0, 0.16);
   --box-shadow-hover-color: rgba(0, 0, 0, 0.32);
-  --base-font: 'Roboto', Arial, sans-serif;
+  --base-font: "Roboto", Arial, sans-serif;
   --code-block-bg: #151f28;
   --code-block-var: #ff39a7;
   --code-block-num: #fed703;
@@ -38,4 +38,8 @@ body[data-theme='darkTheme'] {
   --code-block-keyword: #2bdcff;
   --code-block-comment: #8292a2;
   --code-block-tkimp: #fd971f;
+}
+
+img {
+  max-width: 100%;
 }
