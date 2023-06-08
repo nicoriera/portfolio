@@ -1,10 +1,10 @@
 <h1>Portfolio</h1>
 
-Création de mon portfolio de développeur web
+Creation of my web developer portfolio
 
 https://www.nicolasriera.online/
 
-Technologies utilisées
+Technologies used
 
     JavaScript
     React
@@ -15,6 +15,6 @@ Technologies utilisées
 
 ![FireShot Capture 010 - Portfolio - Nicolas RIERA - nicolasriera gatsbyjs io](https://user-images.githubusercontent.com/80978348/233173569-4b26ea86-2abe-468e-b843-57bdabfddba0.jpg)
 
-Auteur
+Author
 
 Nicolas RIERA - nrierapro@gmail.com
