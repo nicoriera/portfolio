@@ -1,10 +1,10 @@
 {
   "projects": [
     {
-      "visible": false,
-      "category": "🧘‍♀️DÉVELOPPEMENT WEB",
-      "title": "HouseCo",
-      "description": "Création d'un site vitrine pour un cabinet d'hypnose. Le site est réalisé en React. Le site est responsive et est optimisé pour le référencement naturel.",
+      "visible": true,
+      "category": "📚DÉVELOPPEMENT WEB",
+      "title": "Culture Hub",
+      "description": "Culture Hub est une plateforme culturelle créée en utilisant les technologies React et NestJS. Ce projet vise à offrir un espace centralisé pour explorer et découvrir divers aspects de la culture.",
       "tags": [
         "React",
         "Front-end",
@@ -22,9 +22,9 @@
         "SEO"
       ],
       "image": {
-        "src": "",
-        "alt": "HouseCo",
-        "linkTo": ""
+        "src": "../../images/culturehub.png",
+        "alt": "CultureHub",
+        "linkTo": "https://delightful-pixie-dd5dd1.netlify.app/"
       },
       "links": [
         {
@@ -33,7 +33,7 @@
         },
         {
           "type": "external",
-          "url": ""
+          "url": "https://delightful-pixie-dd5dd1.netlify.app/"
         }
       ]
     },

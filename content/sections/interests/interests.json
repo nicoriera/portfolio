@@ -69,6 +69,20 @@
         "src": "../../images/bootstrap.png",
         "alt": ""
       }
+    },
+    {
+      "label": "TypeScript",
+      "image": {
+        "src": "../../images/typescript.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "NestJS",
+      "image": {
+        "src": "../../images/nestjs.png",
+        "alt": ""
+      }
     }
   ],
   "button": {
