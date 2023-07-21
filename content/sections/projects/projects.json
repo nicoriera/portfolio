@@ -22,7 +22,7 @@
         "SEO"
       ],
       "image": {
-        "src": "../../images/culturehub.png",
+        "src": "../../images/site-culturehub.png",
         "alt": "CultureHub",
         "linkTo": "https://delightful-pixie-dd5dd1.netlify.app/"
       },
@@ -100,6 +100,24 @@
         {
           "type": "external",
           "url": "https://www.chit-chat.website/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "📱 DÉVELOPPEMENT WEB",
+      "title": "Justine Pierson architecte",
+      "description": "Optimastion du site vitrine d'une architecte. Le site est réalisé sur Cargo collective. Amélioration du design et du parcours utilisateur.",
+      "tags": ["CSS", "Front-end", "HTML", "Cargo collective", "Hébergement"],
+      "image": {
+        "src": "../../images/site-justine-pierson-architecte.png",
+        "alt": "chit-chat",
+        "linkTo": "https://github.com/nicoriera/Chit-Chat"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://justinepierson.com/"
         }
       ]
     }
