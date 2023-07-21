@@ -11,15 +11,15 @@
     "start": "gatsby develop"
   },
   "dependencies": {
-    "gatsby": "^5.9.0",
+    "gatsby": "^5.11.0",
     "gatsby-source-contentful": "^8.11.0",
     "gatsby-source-filesystem": "^5.11.0",
     "gatsby-theme-portfolio-minimal": "^4.6.1",
     "gatsby-transformer-inline-svg": "^1.2.0",
-    "minimatch": "9.0.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "semver": "^7.5.2"
+    "minimatch": "9.0.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "semver": "^7.5.4"
   },
   "author": "Konstantin Münster",
   "license": "0BSD",
